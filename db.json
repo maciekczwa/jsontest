@@ -1,1 +1,3 @@
-[{"field":"name1", "type":"EDITTEXT", "label": "Nazwa1"},{"field":"name2", "type":"EDITTEXT", "label": "Nazwa2"},{"field":"name3", "type":"EDITTEXT", "label": "Nazwa3"},{"field":"name4", "type":"EDITTEXT", "label": "Nazwa4"},{"field":"date", "type":"DATETIME", "label": "Czas"},{"field":"checkbox", "type":"CHECKBOX", "label": "Checkbox"},{"type":"PICTURE", "url":"https://picsum.photos/300/200", "label": "Obrazek"}]
+{"form":
+  [{"field":"name1", "type":"EDITTEXT", "label": "Nazwa1"},{"field":"name2", "type":"EDITTEXT", "label": "Nazwa2"},{"field":"name3", "type":"EDITTEXT", "label": "Nazwa3"},{"field":"name4", "type":"EDITTEXT", "label": "Nazwa4"},{"field":"date", "type":"DATETIME", "label": "Czas"},{"field":"checkbox", "type":"CHECKBOX", "label": "Checkbox"},{"type":"PICTURE", "url":"https://picsum.photos/300/200", "label": "Obrazek"}]
+}
